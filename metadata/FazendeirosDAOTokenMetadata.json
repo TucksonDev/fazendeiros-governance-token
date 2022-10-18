@@ -1,0 +1,10 @@
+{
+    "name": "FazendeirosDAO",
+	"description": "Governance Token for FazendeirosDAO",
+	"image": "ipfs://Qma3JnpXMgrFh5J9Rczidwi1GpmYjsYvqpPJeKxPnqooHM",
+	"properties": {
+		"DAO": "Fazendeiros",
+		"type": "Member",
+		"Funding round": 1
+	}
+}

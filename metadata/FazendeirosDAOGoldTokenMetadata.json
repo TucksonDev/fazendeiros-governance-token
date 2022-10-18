@@ -1,0 +1,9 @@
+{
+    "name": "FazendeirosDAO - Gold",
+	"description": "Governance Token for FazendeirosDAO - Gold members",
+	"image": "ipfs://Qma1qW4riok9DHsYaQQuEYYGbBF2y3spcLseygGeBfxLEZ",
+	"properties": {
+		"DAO": "Fazendeiros",
+		"type": "Gold Member"
+	}
+}
